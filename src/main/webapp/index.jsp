@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<h5>Welcome to the login page</h5>
+	<h5>Welcome to the login page of my First Struts Application</h5>
 	
 	<s:form action = "users/login" >
 		<s:textfield label = "Enter username" key = "username" />
